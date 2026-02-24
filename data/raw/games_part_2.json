@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Stardew Valley",
+    "description": "A farming simulation RPG where players build a farm, build relationships, and explore mines.",
+    "genres": ["Simulation", "RPG"],
+    "platforms": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One", "Mobile"],
+    "publisher": "ConcernedApe",
+    "developer": "ConcernedApe",
+    "release_date": "2016-02-26"
+  },
+  {
+    "title": "Hades",
+    "description": "A rogue-like dungeon crawler where players escape the underworld using evolving powers.",
+    "genres": ["Roguelike", "Action"],
+    "platforms": ["PC", "Nintendo Switch", "PlayStation 5", "Xbox Series X|S"],
+    "publisher": "Supergiant Games",
+    "developer": "Supergiant Games",
+    "release_date": "2020-09-17"
+  }
+]

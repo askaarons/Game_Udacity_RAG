@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "description": "An open-world action-adventure game where players explore Hyrule and battle Calamity Ganon.",
+    "genres": ["Action-adventure", "Open world"],
+    "platforms": ["Nintendo Switch", "Wii U"],
+    "publisher": "Nintendo",
+    "developer": "Nintendo EPD",
+    "release_date": "2017-03-03"
+  },
+  {
+    "title": "Elden Ring",
+    "description": "A fantasy action RPG featuring challenging combat and expansive exploration in the Lands Between.",
+    "genres": ["Action RPG", "Soulslike"],
+    "platforms": ["PC", "PlayStation 5", "Xbox Series X|S"],
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "FromSoftware",
+    "release_date": "2022-02-25"
+  }
+]
